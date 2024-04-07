@@ -1,9 +1,11 @@
  [![Header](https://github.com/farit82/farit82/blob/main/assest/icon.png) ](https://t.me/fora8284)
  
-## I am a backend developer in the golang language ##
+## I'm a backend developer in the golang language ##
  
-Latest
- 
+
+ ![golang]( https://img.shields.io/badge/golang-blue)
+
+
  Languages and Tools
  
  Follow me
