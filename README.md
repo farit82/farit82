@@ -1,8 +1,8 @@
- Header
+ [![Header](https://github.com/farit82/farit82/blob/main/assest/icon.png)]
  
- About me
-
- Latest
+## I am a backend developer in the golang language ##
+ 
+Latest
  
  Languages and Tools
  
