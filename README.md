@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+a+backend+developer+in+golang)](https://git.io/typing-svg)
 
 
- ![golang]( https://img.shields.io/badge/golang-blue)
 
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -14,5 +13,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 Languages and Tools
- 
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=fora8284)](https://github.com/KnlnKS/leetcode-stats)
+
  Follow me
