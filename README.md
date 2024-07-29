@@ -13,7 +13,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 Languages and Tools
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=fora8284)](https://github.com/KnlnKS/leetcode-stats)
+![Leetcode Stats](https://leetcard.jacoblin.cool/fora8284)
 
  Follow me
